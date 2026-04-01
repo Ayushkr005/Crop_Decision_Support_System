@@ -1,0 +1,19 @@
+project_id = "zpqmikipynjwyfnjmtpe"
+
+[functions.crop-prediction]
+verify_jwt = false
+
+[functions.crop-chat]
+verify_jwt = false
+
+[functions.profit-analysis]
+verify_jwt = false
+
+[functions.translate-content]
+verify_jwt = false
+
+[functions.weather-forecast]
+verify_jwt = false
+
+[functions.crop-calendar]
+verify_jwt = false
