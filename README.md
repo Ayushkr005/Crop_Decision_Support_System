@@ -40,7 +40,6 @@ This project helps farmers and agricultural planners estimate crop yield, analyz
 ## Installation
 
 ### Prerequisites
-
 - Node.js 18+ or newer
 - npm
 - Optional: Supabase project for backend and auth integration
